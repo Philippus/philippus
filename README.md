@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my oss project:
+I'm a developer based in The Netherlands, I like programming in Scala. I build and maintain a number of libraries and sbt plugins:
 
 🚧 [akka-http-testkit-munit](https://github.com/Philippus/akka-http-testkit-munit/)
 
