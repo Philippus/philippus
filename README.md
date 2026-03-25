@@ -10,6 +10,8 @@ I'm a developer based in The Netherlands, I like programming in Scala. I build a
 
 💥 [bump](https://github.com/Philippus/bump/)
 
+🍰 [cakemix](https://github.com/Philippus/cakemix/)
+
 🔍 [elastic4s](https://github.com/Philippus/elastic4s/)
 
 🕟 [emoji-clock](https://github.com/Philippus/emoji-clock/)
